@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/docs/img/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
+<img src="/docs/img/Running.png" width="300" alt="Sportsmens" />
 </p>
 
 # Введение
