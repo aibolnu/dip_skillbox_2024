@@ -43,10 +43,10 @@
 
 ## 11. Список ADR
 
-[ADR Критические бизнес-сценарии](/docs/adr/001_critical_business_scenario.md)  
-[ADR Атрибуты качества](/docs/adr/002_quality_attributes.md)  
-[ADR Нефункциональные требования](/docs/adr/003_NFR.md)  
-[ADR Архитектурные опции](/docs/adr/004_architectural_options.md)
+[ADR Критические бизнес-сценарии](/docs/ADR/001_critical_business_scenario.md)  
+[ADR Атрибуты качества](/docs/ADR/002_quality_attributes.md)  
+[ADR Нефункциональные требования](/docs/ADR/003_NFR.md)  
+[ADR Архитектурные опции](/docs/ADR/004_architectural_options.md)
 
 ## [12.	Описание сценариев использования приложения. ](/docs/usage_scenarios.md)
 
