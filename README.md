@@ -39,14 +39,14 @@
 
 На основании всей изложенной информации можно предложить облачный подход для реализации нового приложения. Рекомендуется выбор облачной услуги PaaS, используя подход Cloud agnostic решение.
 
-[ADR Архитектурные опции](/docs/004_architectural_options.md)
+[ADR Архитектурные опции](/docs/adr/004_architectural_options.md)
 
 ## 11. Список ADR
 
-[ADR Критические бизнес-сценарии](/docs/001_critical_business_scenario.md)  
-[ADR Атрибуты качества](/docs/002_quality_attributes.md)  
-[ADR Нефункциональные требования](/docs/003_NFR.md)  
-[ADR Архитектурные опции](/docs/004_architectural_options.md)
+[ADR Критические бизнес-сценарии](/docs/adr/001_critical_business_scenario.md)  
+[ADR Атрибуты качества](/docs/adr/002_quality_attributes.md)  
+[ADR Нефункциональные требования](/docs/adr/003_NFR.md)  
+[ADR Архитектурные опции](/docs/adr/004_architectural_options.md)
 
 ## [12.	Описание сценариев использования приложения. ](/docs/usage_scenarios.md)
 
