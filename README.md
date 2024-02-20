@@ -50,17 +50,17 @@
 
 ## [12.	Описание сценариев использования приложения. ](/docs/usage_scenarios.md)
 
-## [13.	Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.](/docs/SkillBox_dip_basic.png)
+## [13.	Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.](/docs/img/SkillBox_dip_basic.png)
 
 ## 14.	Основные представления: 
 
-### [a.	Функциональное.](/docs/SkillBox_dip_vw_func.png)
+### [a.	Функциональное.](/docs/img/SkillBox_dip_vw_func.png)
 
-### [b.	Информационное.](/docs/SkillBox_dip_vw_info.png)
+### [b.	Информационное.](/docs/img/SkillBox_dip_vw_info.png)
 
-### [c.	Многозадачность](/docs/SkillBox_dip_vw_concu.png).
+### [c.	Многозадачность](/docs/img/SkillBox_dip_vw_concu.png).
 
-### [d.	Инфраструктурное.](/docs/SkillBox_dip_vw_infra.png)
+### [d.	Инфраструктурное.](/docs/img/SkillBox_dip_vw_infra.png)
 
-### [e.	Безопасность.](/docs/SkillBox_dip_vw_secur.png) 
+### [e.	Безопасность.](/docs/img/SkillBox_dip_vw_secur.png) 
 
