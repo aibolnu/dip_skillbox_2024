@@ -14,7 +14,7 @@
 
 ## [Функциональные требования](/docs/Functional_specification.md)
 
-## [Стейкхолдеры](/docs/stakeholers.md)
+## [Стейкхолдеры](/docs/stakeholders.md)
 
 ## Концептуальная архитектура
 
