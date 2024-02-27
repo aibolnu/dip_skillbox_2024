@@ -18,7 +18,7 @@
 
 ## 4. Концептуальная архитектура
 
-[![Сonceptual architecture](/docs/img/conceptual_architecture.png)](/docs/img/conceptual_architecture.png)
+[![Сonceptual architecture](/docs/img/SkillBox_dip_concept.png)](/docs/img/SkillBox_dip_concept.png)
 
 ## [5. Риски реализации](/docs/implementation_risks.md)
 
