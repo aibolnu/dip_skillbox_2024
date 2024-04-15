@@ -12,7 +12,7 @@
 
 ## [1. Бизнес-цели](/docs/business_goals.md)
 
-## [2. Функциональные требования](/docs/Functional_specification.md)
+## [2. Функциональные требования](/docs/functional_requirements.md)
 
 ## [3. Стейкхолдеры](/docs/stakeholders.md)
 
